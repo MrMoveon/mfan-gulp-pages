@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "echo \"Error: no test specified\" && exit 1"
-  },
+     "serve": "mfan-pages dev",
+     "build": "mfan-pages build"
+   },
   "author": "afei",
   "license": "ISC",
   "dependencies": {
