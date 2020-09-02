@@ -1,13 +1,13 @@
 {
-  "name": "poster",
+  "name": "{{name}}",
   "version": "1.0.0",
-  "description": "",
+  "description": "{{description}}",
   "main": "index.js",
   "scripts": {
      "serve": "mfan-pages dev",
      "build": "mfan-pages build"
    },
-  "author": "afei",
+  "author": "{{author}}",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.3.1",
